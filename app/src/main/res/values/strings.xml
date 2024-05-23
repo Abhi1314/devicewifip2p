@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">wifi2</string>
+    <string name="app_name">deviceWifiP2P</string>
     <string name="wifi_state">WiFi</string>
     <string name="discover">Discover</string>
     <string name="discovery_started">Discovery Started</string>

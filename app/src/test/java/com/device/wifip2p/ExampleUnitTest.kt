@@ -1,4 +1,4 @@
-package com.squbix.wifi2
+package com.device.wifip2p
 
 import org.junit.Test
 

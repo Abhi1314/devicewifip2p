@@ -1,4 +1,4 @@
-package com.squbix.wifi2
+package com.device.wifip2p
 
 import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
@@ -8,6 +8,7 @@ import android.net.NetworkInfo
 import android.net.wifi.p2p.WifiP2pManager
 import android.util.Log
 import android.widget.Toast
+
 
 class WiFiDirectBroadcastReceiver(
     private val manager: WifiP2pManager,

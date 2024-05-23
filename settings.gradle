@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "wifi2"
+rootProject.name = "devicewifip2p"
 include ':app'
