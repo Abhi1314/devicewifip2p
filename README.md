@@ -8,3 +8,4 @@ Basic implementation of WiFi P2P messaging
 - Discovers WiFi's that are open for WiFi P2P 
 - Connect to WiFi P2P devices
 - Send Messages to connected devices
+- Stream camera device to device 
